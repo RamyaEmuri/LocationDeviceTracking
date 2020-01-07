@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285696064267",
+    "firebase_url": "https://example-db1f8.firebaseio.com",
+    "project_id": "example-db1f8",
+    "storage_bucket": "example-db1f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285696064267:android:fd4682bc3439fe51cb000e",
+        "android_client_info": {
+          "package_name": "com.example.locationtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285696064267-fd62erdhhdlf5f7s770vnpsu8aif3vlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-DBa2ZpaDh3hjo57f0rr9vZpuoyZb2fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285696064267-fd62erdhhdlf5f7s770vnpsu8aif3vlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
